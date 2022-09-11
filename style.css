@@ -1,0 +1,13 @@
+h2{
+    text-align:center;
+    color: azure;
+
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn:hover{
+    background: rgb(12, 115, 233);
+    
+   
+}
